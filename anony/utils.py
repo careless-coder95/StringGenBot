@@ -53,18 +53,18 @@ class Inline:
                 ],
                 [
                     self.ikb(
-                        text="˹ᴏᴡɴᴇʀ˼",
-                        url="OWNER_URL_HERE"
+                        text="˹❍ᴡɴᴇʀ˼",
+                        url="https://t.me/CarelessxOwner"
                     )
                 ],
                 [
                     self.ikb(
                         text="˹sᴜᴘᴘᴏʀᴛ˼",
-                        url="SUPPORT_URL_HERE"
+                        url="https://t.me/CarelessxWorld"
                     ),
                     self.ikb(
                         text="˹ᴜᴘᴅᴀᴛᴇ˼",
-                        url="UPDATE_URL_HERE"
+                        url="https://t.me/ll_CarelessxCoder_ll"
                     ),
                 ],
             ]
